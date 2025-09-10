@@ -14,7 +14,7 @@ const App = () => {
 
 
   const [qr,setQr] = useState({
-    value:'https://www.coddingott.com',
+    value:'https://foods-website-green.vercel.app/',
     icon:'',
     bgColor:'white',
     color:'black'
